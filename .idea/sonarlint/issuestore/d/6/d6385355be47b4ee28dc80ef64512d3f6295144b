@@ -1,0 +1,8 @@
+
+1squid:S1220""Move this file to a named package.
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¶¡µ—Ë-
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨˜ì8ÿ‡ëšË-
+Jsquid:S1481",Remove this unused "hub_url" local variable.(‡Ù†õ8Ð¨òšË-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±éÆ²8¾üòšË-
+Ysquid:S1854";Remove this useless assignment to local variable "hub_url".(‡Ù†õ8Ð¨òšË-
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ù†õ8¦Ô¶—Ë-
